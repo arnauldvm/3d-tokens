@@ -9,5 +9,6 @@ module token_with_sign(sign, adjust_height_mm=0, font="Arial Unicode MS", sign_t
     }
 }
 
-token_with_sign(sign="❤︎", adjust_height_mm=-1.5);
+token_with_sign(sign="☻", adjust_height_mm=-0.5, size=20);
+//token_with_sign(sign="❤︎", adjust_height_mm=-1.5);
 //token_with_sign(sign="❥");
