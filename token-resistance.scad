@@ -1,3 +1,4 @@
-use <modules/token-symbol.scad>
+use <modules/token-svg.scad>
 
-token_with_symbol(symbol="♻︎", adjust_height_mm=0, font="DejaVu Sans Mono for Powerline", size=24);
+// token_with_svg(svg="svg/skoll_fist.svg");
+token_with_svg(svg="svg/lorc_cycle.svg");
