@@ -5,6 +5,6 @@ PLA_PRU_PMOUSE="LightGrey";
 PLA_PRU_VWHITE="White";
 PLA_PRU_MGREEN="DarkOliveGreen";
 PLA_AMA_YELLOW="Yellow";
-PLA_VER_IBLUE="Blue";
+PLA_VER_IBLUE="MediumBlue";
 PLA_PRU_MBROWN="SaddleBrown";
 PETG_PRU_CLEAR=[0.9,0.9,0.9];
