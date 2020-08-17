@@ -6,5 +6,5 @@ PLA_PRU_VWHITE="WhiteSmoke";
 PLA_PRU_MGREEN="DarkOliveGreen";
 PLA_AMA_YELLOW="Yellow";
 PLA_VER_IBLUE="MediumBlue";
-PLA_PRU_MBROWN="SaddleBrown";
+PLA_PRU_MBROWN=[0.35, 0.25, 0.2];
 PETG_PRU_CLEAR=[0.9,0.9,0.9];
