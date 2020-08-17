@@ -1,0 +1,10 @@
+PLA_PRU_OGREEN="SeaGreen";
+PLA_PRU_GBLACK=[0.2,0.2,0.2];
+PLA_PRU_LRED="FireBrick";
+PLA_PRU_PMOUSE="LightGrey";
+PLA_PRU_VWHITE="White";
+PLA_PRU_MGREEN="DarkOliveGreen";
+PLA_AMA_YELLOW="Yellow";
+PLA_VER_IBLUE="Blue";
+PLA_PRU_MBROWN="SaddleBrown";
+PETG_PRU_CLEAR=[0.9,0.9,0.9];
