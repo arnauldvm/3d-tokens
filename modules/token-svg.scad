@@ -1,7 +1,9 @@
 use <token-empty.scad>
 
-module token_with_svg(svg, adjust_height_mm=0, scale=0.115, symbol_thickness_mm=0.3, diameter_mm=30, thickness_mm=2, ridge_width_mm=2, ridge_depth_mm=0.5) {
+module token_with_svg(svg, adjust_height_mm=0, scale=0.115, symbol_thickness_mm=0.3, diameter_mm=30, thickness_mm=2, ridge_width_mm=2, ridge_depth_mm=0.5, color_token="lightgrey", color_symbol="blue") {
+    color(color_token)
     token_empty(diameter_mm, thickness_mm, ridge_width_mm, ridge_depth_mm);
+    color(color_symbol)
     translate([0, adjust_height_mm, thickness_mm-ridge_depth_mm+symbol_thickness_mm]) {
         scale([scale,scale,-2*symbol_thickness_mm]) {
             linear_extrude(1) {
