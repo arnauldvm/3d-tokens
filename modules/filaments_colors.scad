@@ -8,3 +8,4 @@ PLA_AMA_YELLOW="Yellow";
 PLA_VER_IBLUE="MediumBlue";
 PLA_PRU_MBROWN=[0.35, 0.25, 0.2];
 PETG_PRU_CLEAR=[0.9,0.9,0.9];
+PLA_GEE_SGOLD="Goldenrod";
